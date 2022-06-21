@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(6,32): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(108,2): warning C4033: 'update'은(는) 값을 반환해야 합니다.
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(109): warning C4716: 'update': 값을 반환해야 합니다.
+  project-myStock.vcxproj -> C:\c언어\project-myStock\myStock\x64\Debug\project-myStock.exe
