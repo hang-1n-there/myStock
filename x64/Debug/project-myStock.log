@@ -1,5 +1,32 @@
 ﻿  Main.c
-C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(6,32): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(108,2): warning C4033: 'update'은(는) 값을 반환해야 합니다.
-C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(109): warning C4716: 'update': 값을 반환해야 합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(18,6): warning C4273: 'exit': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(56,48): message : 'exit'의 이전 정의를 참조하십시오.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(71,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(216,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(216,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(216,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(216,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(352,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(352,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(352,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(352,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(380,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(380,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(380,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(380,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(385,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(385,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(385,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(385,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(378,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(540,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(580,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(613,17): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(617,17): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\console.h(84,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xea'이(가) 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\console.h(86,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xea'이(가) 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(8,32): warning C4244: '함수': 'time_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(279,2): warning C4033: 'update'은(는) 값을 반환해야 합니다.
+C:\c언어\project-myStock\myStock\project-myStock\init.h(882): warning C4716: 'Thread_A': 값을 반환해야 합니다.
+C:\c언어\project-myStock\myStock\project-myStock\stock_game.h(280): warning C4716: 'update': 값을 반환해야 합니다.
   project-myStock.vcxproj -> C:\c언어\project-myStock\myStock\x64\Debug\project-myStock.exe

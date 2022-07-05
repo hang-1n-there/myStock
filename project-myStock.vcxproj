@@ -145,6 +145,7 @@
     <ClCompile Include="SFMT.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="console.h" />
     <ClInclude Include="init.h" />
     <ClInclude Include="SFMT-alti.h" />
     <ClInclude Include="SFMT-avx256.h" />
@@ -164,9 +165,6 @@
     <ClInclude Include="SFMT-sse2-msc.h" />
     <ClInclude Include="SFMT-sse2.h" />
     <ClInclude Include="SFMT.h" />
-    <ClInclude Include="console.h">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClInclude>
     <ClInclude Include="stock_game.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
